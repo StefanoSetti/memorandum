@@ -10,3 +10,5 @@ https://www.rug.fm/what-is-rug-radio: Decentralized media platorm
 https://app.ens.domains/: Decentralised naming for wallets, websites, & more.
 
 https://twitter.com/mr__gollum/status/1511010930305470466?s=21&t=zUozP-RukGoFaSmpqMcvxg: rug.fm update
+
+https://decrypt.co/resources/what-is-aave-inside-the-defi-lending-protocol: DeFi lending protocol

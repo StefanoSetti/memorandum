@@ -1,5 +1,5 @@
 # Memorandum
-Links, notes and various resources that I found daily. A plece where to store and don't forgot about. The digital extension of my physical brain.
+Links, notes and various resources that I found daily. A place where to store and don't forgot about. The digital extension of my physical brain.
 
 https://americana.io/ : The first marketplace to buy and sell physical things as NFTs.
 
